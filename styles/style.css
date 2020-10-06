@@ -1,0 +1,68 @@
+#bg {
+    position: fixed;
+    top: 0; 
+    left: 0; 
+	
+  /* Preserve aspet ratio */
+    width: 100%;
+    height: 100%;
+}
+.box{
+    position: relative;
+    display: inline-block; /* Make the width of box same as image */
+}
+.text1{
+    position: absolute;
+    z-index: 999;
+    left: 0;        
+    text-align: center;
+    top: 25%; /* Adjust this value to move the positioned div up and down */
+    width: 16%; /* Set the width of the positioned div */
+    height: 74%;
+}
+.text2{
+    position: fixed;
+    z-index: 999;
+    margin-bottom: 0%;
+    margin: 0 auto;
+    right: 11%;
+    top: 5.4%; /* Adjust this value to move the positioned div up and down */
+    bottom: 88%;
+    text-align: center;
+    width: 70%; /* Set the width of the positioned div */
+    }
+.text3{
+    position: fixed;
+    z-index: 999;
+    margin: 0 auto;
+    right: 0;
+    bottom: 0; /* Adjust this value to move the positioned div up and down */
+    text-align: left;
+    width: 81%; /* Set the width of the positioned div */
+    height: 80%
+    }
+p, h2, ul, li, a {
+    color: aliceblue;
+    font-size: 20px;
+}
+.btn {
+    z-index: 999;
+    border: none;
+    background-color: inherit;
+    padding: 7px 28px;
+    font-size: 18px;
+    cursor: pointer;
+    display: inline-block;
+}
+.safe, .euclid, .keter, .neutralized, .explained, .thaumiel, .update {
+    color: aliceblue;
+}
+.text4{
+    position: absolute;
+    z-index: 999;
+    left: 0;        
+    text-align: center;
+    top: 25%; /* Adjust this value to move the positioned div up and down */
+    width: 16%; /* Set the width of the positioned div */
+    height: 137%;
+}

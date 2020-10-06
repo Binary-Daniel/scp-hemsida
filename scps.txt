@@ -1,0 +1,136 @@
+Euclid:
+SCP-0002-J
+SCP-002
+SCP-003
+SCP-004
+SCP-007
+SCP-007-INT
+SCP-007-J
+SCP-008
+SCP-008-J
+SCP-009
+SCP-011-DE
+SCP-011-J
+SCP-011-PT
+SCP-012
+SCP-012-J
+SCP-013-ARC
+SCP-013-J
+SCP-015
+SCP-015-IT
+SCP-015-J
+SCP-016-J
+SCP-018
+SCP-018-DE
+SCP-019-IT
+SCP-022
+SCP-023
+SCP-024
+SCP-026
+SCP-027
+SCP-029-J
+SCP-031-J
+SCP-032
+SCP-032-IT
+SCP-033
+SCP-037
+SCP-037-IT
+SCP-039
+SCP-040
+SCP-042-J
+SCP-046
+SCP-048-ARC
+SCP-049
+SCP-049-ARC
+SCP-049-J
+SCP-050
+SCP-052
+SCP-053
+SCP-054-FR
+SCP-056
+SCP-062
+SCP-065
+SCP-066
+SCP-066-DE
+SCP-067-EX
+SCP-069-UA
+SCP-071
+SCP-072-TH
+SCP-073
+SCP-074
+SCP-075
+SCP-077
+SCP-078
+SCP-079
+SCP-080
+SCP-081
+SCP-082
+SCP-083
+SCP-084
+SCP-087
+SCP-088-PT
+SCP-089
+SCP-091-ARC
+SCP-093
+SCP-095-J
+SCP-096
+SCP-097
+
+Keter:
+SCP-001
+SCP-001-J
+SCP-005-J-EX
+SCP-006-J
+SCP-014-J
+SCP-016
+SCP-017
+SCP-019
+SCP-020
+SCP-021-PT
+SCP-022-J
+SCP-027-J
+SCP-028-DE
+SCP-029
+SCP-035
+SCP-047
+SCP-048-J
+SCP-050-PT
+SCP-055
+SCP-055-J
+SCP-057-PT
+SCP-058
+SCP-059
+SCP-060
+SCP-076
+SCP-078-J
+SCP-083-D
+SCP-090
+SCP-094
+
+Thaumiel:
+SCP-004-J
+SCP-005-INT
+SCP-055-PT
+
+<!--funktion 4-->
+    <div class="text3" id="scp-0" style="display: none">
+        <a href="">scp-0</a>
+    </div>
+
+function Function4() {
+    var h = document.getElementById("foo");
+    h.insertAdjacentText("beforeend", " > scp-0");
+    
+    var x = document.getElementById("safe");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+    var x = document.getElementById("scp-0");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
