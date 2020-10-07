@@ -12,11 +12,11 @@
     display: inline-block; /* Make the width of box same as image */
 }
 .text1{
-    position: absolute;
+    position: fixed;
     z-index: 999;
     left: 0;        
     text-align: center;
-    top: 25%; /* Adjust this value to move the positioned div up and down */
+    top: 24%; /* Adjust this value to move the positioned div up and down */
     width: 16%; /* Set the width of the positioned div */
     height: 74%;
 }
@@ -30,7 +30,13 @@
     bottom: 88%;
     text-align: center;
     width: 70%; /* Set the width of the positioned div */
-    }
+    height: 100%
+}
+.search{
+    position: fixed;
+    right: 0;
+    top: 13%;
+}
 .text3{
     position: fixed;
     z-index: 999;
@@ -40,7 +46,7 @@
     text-align: left;
     width: 81%; /* Set the width of the positioned div */
     height: 80%
-    }
+}
 p, h2, ul, li, a {
     color: aliceblue;
     font-size: 20px;
@@ -54,7 +60,7 @@ p, h2, ul, li, a {
     cursor: pointer;
     display: inline-block;
 }
-.safe, .euclid, .keter, .neutralized, .explained, .thaumiel, .update {
+.safe, .euclid, .keter, .neutralized, .explained, .thaumiel, .about, .update {
     color: aliceblue;
 }
 .text4{
@@ -62,7 +68,7 @@ p, h2, ul, li, a {
     z-index: 999;
     left: 0;        
     text-align: center;
-    top: 25%; /* Adjust this value to move the positioned div up and down */
+    top: 24%; /* Adjust this value to move the positioned div up and down */
     width: 16%; /* Set the width of the positioned div */
-    height: 137%;
+    height: 76%;
 }
