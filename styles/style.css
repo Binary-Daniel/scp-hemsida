@@ -7,16 +7,12 @@
     width: 100%;
     height: 100%;
 }
-.box{
-    position: relative;
-    display: inline-block; /* Make the width of box same as image */
-}
 .text1{
-    position: fixed;
+    position: absolute;
     z-index: 999;
     left: 0;        
     text-align: center;
-    top: 24%; /* Adjust this value to move the positioned div up and down */
+    top: 25%; /* Adjust this value to move the positioned div up and down */
     width: 16%; /* Set the width of the positioned div */
     height: 74%;
 }
@@ -30,11 +26,10 @@
     bottom: 88%;
     text-align: center;
     width: 70%; /* Set the width of the positioned div */
-    height: 100%
 }
 .search{
     position: fixed;
-    right: 0;
+    left: 20%;
     top: 13%;
 }
 .text3{
@@ -68,7 +63,7 @@ p, h2, ul, li, a {
     z-index: 999;
     left: 0;        
     text-align: center;
-    top: 24%; /* Adjust this value to move the positioned div up and down */
+    top: 25%; /* Adjust this value to move the positioned div up and down */
     width: 16%; /* Set the width of the positioned div */
-    height: 76%;
+    height: 137%;
 }
