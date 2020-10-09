@@ -27,11 +27,32 @@
     text-align: center;
     width: 70%; /* Set the width of the positioned div */
 }
-.search{
+
+#searchbar{
     position: fixed;
+    padding:5px;
+    width: 80px;
     left: 20%;
-    top: 13%;
+    top: 11%;
+} 
+input[type=text] { 
+     width: 30%; 
+     -webkit-transition: width 0.15s ease-in-out; 
+    transition: width 0.15s ease-in-out; 
+} 
+   /* When the input field gets focus, 
+        change its width to 100% */
+input[type=text]:focus { 
+    width: 70%; 
+} 
+#list{ 
+    font-size:  1.5em; 
+    margin-left: 90px; 
+} 
+.scp{ 
+   display: list-item;     
 }
+
 .text3{
     position: fixed;
     z-index: 999;
@@ -55,7 +76,7 @@ p, h2, ul, li, a {
     cursor: pointer;
     display: inline-block;
 }
-.safe, .euclid, .keter, .neutralized, .explained, .thaumiel, .about, .update {
+.safe, .euclid, .keter, .neutralized, .explained, .thaumiel, .about, .update, .scp{
     color: aliceblue;
 }
 .text4{
