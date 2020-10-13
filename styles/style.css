@@ -1,72 +1,90 @@
 #bg {
     position: fixed;
-    top: 0; 
-    left: 0; 
-	
-  /* Preserve aspet ratio */
+    top: 0;
+    left: 0;
+
+    /* Preserve aspet ratio */
     width: 100%;
     height: 100%;
 }
-.text1{
+
+.text1 {
     position: absolute;
     z-index: 999;
-    left: 0;        
+    left: 0;
     text-align: center;
-    top: 25%; /* Adjust this value to move the positioned div up and down */
-    width: 16%; /* Set the width of the positioned div */
+    top: 25%;
+    /* Adjust this value to move the positioned div up and down */
+    width: 16%;
+    /* Set the width of the positioned div */
     height: 74%;
 }
-.text2{
+
+.text2 {
     position: fixed;
     z-index: 999;
     margin-bottom: 0%;
     margin: 0 auto;
     right: 11%;
-    top: 5.4%; /* Adjust this value to move the positioned div up and down */
+    top: 5.4%;
+    /* Adjust this value to move the positioned div up and down */
     bottom: 88%;
     text-align: center;
-    width: 70%; /* Set the width of the positioned div */
+    width: 70%;
+    /* Set the width of the positioned div */
 }
 
-#searchbar{
+#searchbar {
     position: fixed;
-    padding:5px;
+    padding: 5px;
     width: 80px;
     left: 20%;
     top: 11%;
-} 
-input[type=text] { 
-     width: 30%; 
-     -webkit-transition: width 0.15s ease-in-out; 
-    transition: width 0.15s ease-in-out; 
-} 
-   /* When the input field gets focus, 
-        change its width to 100% */
-input[type=text]:focus { 
-    width: 70%; 
-} 
-#list{ 
-    font-size:  1.5em; 
-    margin-left: 90px; 
-} 
-.scp{ 
-   display: list-item;     
 }
 
-.text3{
+input[type=text] {
+    width: 30%;
+    -webkit-transition: width 0.15s ease-in-out;
+    transition: width 0.15s ease-in-out;
+}
+
+/* When the input field gets focus, 
+        change its width to 100% */
+input[type=text]:focus {
+    width: 70%;
+}
+
+#list {
+    font-size: 1.5em;
+    margin-left: 90px;
+}
+
+.scp {
+    display: list-item;
+}
+
+.text3 {
     position: fixed;
     z-index: 999;
     margin: 0 auto;
     right: 0;
-    bottom: 0; /* Adjust this value to move the positioned div up and down */
+    bottom: 0;
+    /* Adjust this value to move the positioned div up and down */
     text-align: left;
-    width: 81%; /* Set the width of the positioned div */
+    width: 81%;
+    /* Set the width of the positioned div */
     height: 80%
 }
-p, h2, ul, li, a {
+
+p,
+h2,
+ul,
+li,
+a {
     color: aliceblue;
     font-size: 20px;
 }
+
 .btn {
     z-index: 999;
     border: none;
@@ -76,15 +94,27 @@ p, h2, ul, li, a {
     cursor: pointer;
     display: inline-block;
 }
-.safe, .euclid, .keter, .neutralized, .explained, .thaumiel, .about, .update, .scp{
+
+.safe,
+.euclid,
+.keter,
+.neutralized,
+.explained,
+.thaumiel,
+.about,
+.update,
+.scp {
     color: aliceblue;
 }
-.text4{
+
+.text4 {
     position: absolute;
     z-index: 999;
-    left: 0;        
+    left: 0;
     text-align: center;
-    top: 25%; /* Adjust this value to move the positioned div up and down */
-    width: 16%; /* Set the width of the positioned div */
+    top: 25%;
+    /* Adjust this value to move the positioned div up and down */
+    width: 16%;
+    /* Set the width of the positioned div */
     height: 137%;
 }
