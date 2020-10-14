@@ -1,11 +1,15 @@
 //scp-safe
 function Function10() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 005";
-
+    
+    var x = document.getElementsById("mydiv2");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    }
     var x = document.getElementById("safe");
     if (x.style.display === "block") {
         x.style.display = "none";
-    } 
+    }
     var x = document.getElementById("scp-005");
     if (x.style.display === "none") {
         x.style.display = "block";

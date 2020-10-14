@@ -8,18 +8,6 @@
     height: 100%;
 }
 
-.text1 {
-    position: absolute;
-    z-index: 999;
-    left: 0;
-    text-align: center;
-    top: 25%;
-    /* Adjust this value to move the positioned div up and down */
-    width: 16%;
-    /* Set the width of the positioned div */
-    height: 74%;
-}
-
 .text2 {
     position: fixed;
     z-index: 999;
@@ -85,36 +73,7 @@ a {
     font-size: 20px;
 }
 
-.btn {
-    z-index: 999;
-    border: none;
-    background-color: inherit;
-    padding: 7px 28px;
-    font-size: 18px;
-    cursor: pointer;
-    display: inline-block;
-}
 
-.safe,
-.euclid,
-.keter,
-.neutralized,
-.explained,
-.thaumiel,
-.about,
-.update,
-.scp {
+.safe, .euclid, .keter, .neutralized, .explained, .thaumiel, .about, .update, .scp, .license {
     color: aliceblue;
-}
-
-.text4 {
-    position: absolute;
-    z-index: 999;
-    left: 0;
-    text-align: center;
-    top: 25%;
-    /* Adjust this value to move the positioned div up and down */
-    width: 16%;
-    /* Set the width of the positioned div */
-    height: 137%;
 }

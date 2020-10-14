@@ -4,12 +4,14 @@
 <head>
     <meta charset="utf-8">
     <link href="styles/style.css" rel="stylesheet">
+    <link href="styles/buttons.css" rel="stylesheet">
     <link rel="shortcut icon" href="scp%20icon.ico" type="image/x-icon">
     <img src="images/scp_bakrund.png" id="bg">
-    <title>SCP</title>
     <script src="scripts/%C3%B6vrigt.js"></script>
     <script src="scripts/search.js"></script>
     <script src="scripts/scp.js"></script>
+    <script src="scripts/license.js"></script>
+    <title>SCP</title>
 </head>
 
 <body>
@@ -67,13 +69,27 @@
         <button class="btn scp" onclick="Function46()">scp 098</button><br>
         <button class="btn scp" onclick="Function47()">scp 099</button><br>
     </div>
+    <!--license-->
+        <div class="text5" id="mydiv2" style="display: none">
+            <button class="btn scp" onclick="Function100()">update notes</button>
+        </div>
+    <div class="text3" id="about" style="display: none;">
+            <p>this website is an inturpitation on how the SCP database could lok like</p>
+        </div>
+        <div class="text3" id="notes" style="display: none;">
+            <ul>
+                <li>fixed buttons</li>
+                <li>safe serie 1 buttons</li>
+                <li>text zise bug</li>
+            </ul>
+    </div>
     <div class="search">
         <input id="searchbar" onkeyup="search_scp()" onkeypress="search()" type="text" name="search" placeholder="Search scp..">
     </div>
     <div class="text2">
         <h2 id="foo">(oject class/scp/document)</h2>
     </div>
-    <div class="box">
+    
         <!--funktion 10-->
         <div class="text3" id="scp-005" style="display: none">
             <a href="http://scp-wiki.wikidot.com/scp-005">scp-005 has not bean aproved by athor</a>
@@ -226,19 +242,8 @@
         <div class="text3" id="scp-099" style="display: none">
             <a href="http://scp-wiki.wikidot.com/scp-099">scp-099</a>
         </div>
-
-
-        <div class="text3" id="about" style="display: none;">
-            <p>this website is an inturpitation on how the SCP database could lok like</p>
-        </div>
-        <div class="text3" id="notes" style="display: none;">
-            <ul>
-                <li>fixed buttons</li>
-                <li>safe serie 1 buttons</li>
-                <li>text zise bug</li>
-            </ul>
-        </div>
-    </div>
+    
+        
 </body>
 
 </html>
