@@ -476,7 +476,15 @@ function Function14() {
 
 function Function15() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 014";
-
+    //<license>
+    var div = document.getElementById('lisense14');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+    //</license>
     var x = document.getElementById("safe");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -563,7 +571,15 @@ function Function15() {
 
 function Function16() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 021";
-
+    //<license>
+    var div = document.getElementById('lisense21');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+    //</license>
     var x = document.getElementById("safe");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -650,7 +666,15 @@ function Function16() {
 
 function Function17() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 025";
-
+    //<license>
+    var div = document.getElementById('lisense25');
+    if (div.style.display !== 'none') {
+        div.style.display = 'none';
+    }
+    else {
+        div.style.display = 'block';
+    }
+    //</license>
     var x = document.getElementById("safe");
     if (x.style.display === "block") {
         x.style.display = "none";
