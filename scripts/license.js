@@ -529,4 +529,3 @@ function L99() {
     } else {
         x.style.display = "block";
     }
-}
