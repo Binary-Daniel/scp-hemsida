@@ -1,5 +1,5 @@
 //scp-safe
-function Function10() {
+function scp5() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 005";
     //<license>
     var div = document.getElementById('lisense5');
@@ -14,6 +14,12 @@ function Function10() {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+    var div = document.getElementById("scp005");
+    if (div.style.display === "none") {
+        div.style.display = "block";
+    } else {
+        div.style.display = "none";
     }
 }
 
@@ -100,7 +106,7 @@ function L5() {
     link.style.display = 'none';
 }
 
-function Function11() {
+function scp6() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 006";
     //<license>
     var div = document.getElementById('lisense6');
@@ -111,7 +117,6 @@ function Function11() {
     }
     //</license>
     var x = document.getElementById("safe");
-    var x = document.getElementById("lic5");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
