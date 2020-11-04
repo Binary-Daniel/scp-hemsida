@@ -12,6 +12,8 @@ function Function10() {
     var x = document.getElementById("safe");
     if (x.style.display === "block") {
         x.style.display = "none";
+    } else {
+        x.style.display = "block";
     }
 }
 
