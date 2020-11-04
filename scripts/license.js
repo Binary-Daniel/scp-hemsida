@@ -1,20 +1,14 @@
 function L5() {
-    var x = document.getElementsByClassName("scp-005");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-    var x = document.getElementById("lic5");
-    if (x.style.display === "block") {
-        x.style.display = "none";
-    } else {
-        x.style.display = "block";
-    }
+    var x = document.getElementsByClassNameById("scp005");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
 }
 
-function L6() {
-    var x = document.getElementById("scp-006");
+function L6()  {
+    var x = document.getElementsByClassNameById("scp006");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -29,7 +23,7 @@ function L6() {
 }
 
 function L10() {
-    var x = document.getElementById("scp-010");
+    var x = document.getElementById("scp010");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -44,7 +38,7 @@ function L10() {
 }
 
 function L11() {
-    var x = document.getElementById("scp-011");
+    var x = document.getElementById("scp011");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -59,7 +53,7 @@ function L11() {
 }
 
 function L13() {
-    var x = document.getElementById("scp-013");
+    var x = document.getElementById("scp013");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
