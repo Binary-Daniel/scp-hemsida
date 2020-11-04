@@ -14,7 +14,6 @@ function Function10() {
         x.style.display = "none";
     }
 }
-
 function L5() {
     var x = document.getElementsByClassName("scp-005");
     if (x.style.display === "none") {
@@ -22,7 +21,6 @@ function L5() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-006");
     link.style.display = 'none';
     var link = document.getElementById("scp-010");
@@ -98,7 +96,6 @@ function L5() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function11() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 006";
     //<license>
@@ -110,8 +107,6 @@ function Function11() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic5");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -119,10 +114,6 @@ function Function11() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L6() {
     var x = document.getElementById("scp-006");
     if (x.style.display === "none") {
@@ -130,7 +121,6 @@ function L6() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-010");
@@ -206,7 +196,6 @@ function L6() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function12() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 010";
     //<license>
@@ -218,8 +207,6 @@ function Function12() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic6");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -227,10 +214,6 @@ function Function12() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L10() {
     var x = document.getElementById("scp-010");
     if (x.style.display === "none") {
@@ -238,7 +221,6 @@ function L10() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -314,7 +296,6 @@ function L10() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function13() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 011";
     //<license>
@@ -326,8 +307,6 @@ function Function13() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic10");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -335,10 +314,6 @@ function Function13() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L11() {
     var x = document.getElementById("scp-011");
     if (x.style.display === "none") {
@@ -346,7 +321,6 @@ function L11() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -422,7 +396,6 @@ function L11() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function14() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 013";
     //<license>
@@ -434,8 +407,6 @@ function Function14() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic11");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -443,10 +414,6 @@ function Function14() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L13() {
     var x = document.getElementById("scp-013");
     if (x.style.display === "none") {
@@ -454,7 +421,6 @@ function L13() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -530,7 +496,6 @@ function L13() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function15() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 014";
     //<license>
@@ -542,8 +507,6 @@ function Function15() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic13");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -551,10 +514,6 @@ function Function15() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L14() {
     var x = document.getElementById("scp-014");
     if (x.style.display === "none") {
@@ -562,7 +521,6 @@ function L14() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -638,7 +596,6 @@ function L14() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function16() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 021";
     //<license>
@@ -650,8 +607,6 @@ function Function16() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic14");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -659,10 +614,6 @@ function Function16() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L21() {
     var x = document.getElementById("scp-021");
     if (x.style.display === "none") {
@@ -670,7 +621,6 @@ function L21() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -746,7 +696,6 @@ function L21() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function17() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 025";
     //<license>
@@ -758,8 +707,6 @@ function Function17() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic21");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -767,10 +714,6 @@ function Function17() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L25() {
     var x = document.getElementById("scp-025");
     if (x.style.display === "none") {
@@ -778,7 +721,6 @@ function L25() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -854,7 +796,6 @@ function L25() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function18() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 028";
     //<license>
@@ -866,8 +807,6 @@ function Function18() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic25");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -875,10 +814,6 @@ function Function18() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L28() {
     var x = document.getElementById("scp-028");
     if (x.style.display === "none") {
@@ -886,7 +821,6 @@ function L28() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -962,7 +896,6 @@ function L28() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function19() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 030";
     //<license>
@@ -974,8 +907,6 @@ function Function19() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic28");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -983,10 +914,6 @@ function Function19() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L30() {
     var x = document.getElementById("scp-030");
     if (x.style.display === "none") {
@@ -994,7 +921,6 @@ function L30() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -1070,7 +996,6 @@ function L30() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function20() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 031";
     //<license>
@@ -1082,8 +1007,6 @@ function Function20() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic30");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -1091,10 +1014,6 @@ function Function20() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L31() {
     var x = document.getElementById("scp-031");
     if (x.style.display === "none") {
@@ -1102,7 +1021,6 @@ function L31() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -1178,7 +1096,6 @@ function L31() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function21() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 034";
     //<license>
@@ -1190,8 +1107,6 @@ function Function21() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic31");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -1199,10 +1114,6 @@ function Function21() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L34() {
     var x = document.getElementById("scp-034");
     if (x.style.display === "none") {
@@ -1210,7 +1121,6 @@ function L34() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -1286,7 +1196,6 @@ function L34() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function22() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 036";
     //<license>
@@ -1298,8 +1207,6 @@ function Function22() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic34");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -1307,10 +1214,6 @@ function Function22() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L36() {
     var x = document.getElementById("scp-036");
     if (x.style.display === "none") {
@@ -1318,7 +1221,6 @@ function L36() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -1394,7 +1296,6 @@ function L36() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function23() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 038";
     //<license>
@@ -1406,8 +1307,6 @@ function Function23() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic36");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -1415,10 +1314,6 @@ function Function23() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L38() {
     var x = document.getElementById("scp-038");
     if (x.style.display === "none") {
@@ -1426,7 +1321,6 @@ function L38() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -1502,7 +1396,6 @@ function L38() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function24() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 041";
     //<license>
@@ -1514,8 +1407,6 @@ function Function24() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic38");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -1523,10 +1414,6 @@ function Function24() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L41() {
     var x = document.getElementById("scp-041");
     if (x.style.display === "none") {
@@ -1534,7 +1421,6 @@ function L41() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -1610,7 +1496,6 @@ function L41() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function25() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 042";
     //<license>
@@ -1622,8 +1507,6 @@ function Function25() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic41");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -1631,10 +1514,6 @@ function Function25() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L42() {
     var x = document.getElementById("scp-042");
     if (x.style.display === "none") {
@@ -1642,7 +1521,6 @@ function L42() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -1718,7 +1596,6 @@ function L42() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function26() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 043";
     //<license>
@@ -1730,8 +1607,6 @@ function Function26() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic42");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -1739,10 +1614,6 @@ function Function26() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L43() {
     var x = document.getElementById("scp-043");
     if (x.style.display === "none") {
@@ -1750,7 +1621,6 @@ function L43() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -1826,7 +1696,6 @@ function L43() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function27() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 044";
     //<license>
@@ -1838,8 +1707,6 @@ function Function27() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic43");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -1847,10 +1714,6 @@ function Function27() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L44() {
     var x = document.getElementById("scp-044");
     if (x.style.display === "none") {
@@ -1858,7 +1721,6 @@ function L44() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -1934,7 +1796,6 @@ function L44() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function28() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 045";
     //<license>
@@ -1946,8 +1807,6 @@ function Function28() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic44");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -1955,10 +1814,6 @@ function Function28() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L45() {
     var x = document.getElementById("scp-045");
     if (x.style.display === "none") {
@@ -1966,7 +1821,6 @@ function L45() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -2042,7 +1896,6 @@ function L45() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function29() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 051";
     //<license>
@@ -2054,8 +1907,6 @@ function Function29() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic45");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -2063,10 +1914,6 @@ function Function29() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L51() {
     var x = document.getElementById("scp-051");
     if (x.style.display === "none") {
@@ -2074,7 +1921,6 @@ function L51() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -2148,7 +1994,6 @@ function L51() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function30() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 054";
     //<license>
@@ -2160,8 +2005,6 @@ function Function30() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic51");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -2169,10 +2012,6 @@ function Function30() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L54() {
     var x = document.getElementById("scp-054");
     if (x.style.display === "none") {
@@ -2180,7 +2019,6 @@ function L54() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -2254,7 +2092,6 @@ function L54() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function31() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 057";
     //<license>
@@ -2266,8 +2103,6 @@ function Function31() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic54");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -2275,10 +2110,6 @@ function Function31() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L57() {
     var x = document.getElementById("scp-057");
     if (x.style.display === "none") {
@@ -2286,7 +2117,6 @@ function L57() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -2360,7 +2190,6 @@ function L57() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function32() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 061";
     //<license>
@@ -2372,8 +2201,6 @@ function Function32() {
     }
     //</license>
     var x = document.getElementById("safe");
-
-
     var x = document.getElementById("lic57");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -2381,10 +2208,6 @@ function Function32() {
         x.style.display = "block";
     }
 }
-
-
-
-
 function L61() {
     var x = document.getElementById("scp-061");
     if (x.style.display === "none") {
@@ -2392,7 +2215,6 @@ function L61() {
     } else {
         x.style.display = "none";
     }
-
     var link = document.getElementById("scp-005");
     link.style.display = 'none';
     var link = document.getElementById("scp-006");
@@ -2466,7 +2288,6 @@ function L61() {
     var link = document.getElementById("scp-099");
     link.style.display = 'none';
 }
-
 function Function33() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 063";
     //<license>
