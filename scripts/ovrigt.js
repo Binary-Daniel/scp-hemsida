@@ -1,5 +1,5 @@
 //home buttons
-function Function1() {
+function scpsafe() {
     var h = document.getElementById("foo");
     h.insertAdjacentText("beforeend", "safe");
 
