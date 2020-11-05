@@ -63,7 +63,7 @@ function scp6() {
 }
 
 function L6() {
-    var x = document.getElementsByClassNameBy("scp006");
+    var x = document.getElementById("scp006");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -1474,6 +1474,16 @@ function L99() {
         x.style.display = "none";
     }
     var x = document.getElementById("l99");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+}
+
+//story
+function story010-1() {
+    var x = document.getElementById("History");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
