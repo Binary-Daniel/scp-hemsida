@@ -2,7 +2,7 @@
 function scp5() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 005";
     //<license>
-    var x = document.getElementById("lisense5");
+    var x = document.getElementById("ls5");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -41,7 +41,7 @@ function L5() {
 function scp6() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 006";
     //<license>
-    var x = document.getElementById("lisense6");
+    var x = document.getElementById("ls6");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -79,14 +79,14 @@ function L6() {
 
 function scp10() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 010";
-    //<license>
-    var x = document.getElementById("lisense10");
+    //license+story
+    var x = document.getElementById("ls10");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
     }
-    //</license>
+    //license+story
     var x = document.getElementById("safe");
     if (x.style.display === "block") {
         x.style.display = "none";
@@ -1482,11 +1482,17 @@ function L99() {
 }
 
 //story
-function story010-1() {
-    var x = document.getElementById("History");
-    if (x.style.display === "block") {
-        x.style.display = "none";
-    } else {
+function Addendum 010-1() {
+    var x = document.getElementById("scp010");
+    if (x.style.display === "none") {
         x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("History");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
