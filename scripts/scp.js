@@ -1,119 +1,51 @@
-//scp-safe
+//scpsafe
 function scp5() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 005";
     //<license>
-    var div = document.getElementById('lisense5');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
+    var x = document.getElementById("lisense5");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
     }
-    var div = document.getElementById("scp005");
-    if (div.style.display === "none") {
-        div.style.display = "block";
-    } else {
-        div.style.display = "none";
-    }
-}
-
-function L5() {
-    var x = document.getElementsByClassName("scp-005");
+    //</license>
+    var x = document.getElementById("safe");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
+    var x = document.getElementById("scp005");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+}
+
+function L5() {
+    var x = document.getElementById('l5');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp005");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
 }
 
 function scp6() {
     foo.innerText = "(oject class/scp/document) > SAFE > SCP 006";
     //<license>
-    var div = document.getElementById('lisense6');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
+    var x = document.getElementById("lisense6");
+    if (x.style.display === "block") {
+        x.style.display = "none";
     } else {
-        div.style.display = 'block';
+        x.style.display = "block";
     }
     //</license>
     var x = document.getElementById("safe");
@@ -121,3664 +53,1388 @@ function scp6() {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+    var x = document.getElementById("scp006");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L6() {
-    var x = document.getElementById("scp-006");
+    var x = document.getElementsByClassNameBy("scp006");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function12() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 010";
-    //<license>
-    var div = document.getElementById('lisense10');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic6");
+    var x = document.getElementById("l6");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp10() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 010";
+    //<license>
+    var x = document.getElementById("lisense10");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp010");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L10() {
-    var x = document.getElementById("scp-010");
+    var x = document.getElementById("scp010");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function13() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 011";
-    //<license>
-    var div = document.getElementById('lisense11');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic10");
+    var x = document.getElementById("l10");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp11() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 011";
+    //<license>
+    var x = document.getElementById('lisense11');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp011");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L11() {
-    var x = document.getElementById("scp-011");
+    var x = document.getElementById("scp011");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function14() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 013";
-    //<license>
-    var div = document.getElementById('lisense13');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic11");
+    var x = document.getElementById("l11");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp13() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 013";
+    //<license>
+    var x = document.getElementById('lisense13');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp013");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L13() {
-    var x = document.getElementById("scp-013");
+    var x = document.getElementById("scp013");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function15() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 014";
-    //<license>
-    var div = document.getElementById('lisense14');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic13");
+    var x = document.getElementById("l13");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp14() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 014";
+    //<license>
+    var x = document.getElementById('lisense14');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp014");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L14() {
-    var x = document.getElementById("scp-014");
+    var x = document.getElementById("scp014");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function16() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 021";
-    //<license>
-    var div = document.getElementById('lisense21');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic14");
+    var x = document.getElementById("l14");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp21() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 021";
+    //<license>
+    var x = document.getElementById('lisense21');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp021");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L21() {
-    var x = document.getElementById("scp-021");
+    var x = document.getElementById("scp021");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function17() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 025";
-    //<license>
-    var div = document.getElementById('lisense25');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic21");
+    var x = document.getElementById("l21");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp25() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 025";
+    //<license>
+    var x = document.getElementById('lisense25');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp025");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L25() {
-    var x = document.getElementById("scp-025");
+    var x = document.getElementById("scp025");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function18() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 028";
-    //<license>
-    var div = document.getElementById('lisense28');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic25");
+    var x = document.getElementById("l25");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp28() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 028";
+    //<license>
+    var x = document.getElementById('lisense28');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp028");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L28() {
-    var x = document.getElementById("scp-028");
+    var x = document.getElementById("scp028");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function19() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 030";
-    //<license>
-    var div = document.getElementById('lisense30');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic28");
+    var x = document.getElementById("l28");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp30() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 030";
+    //<license>
+    var x = document.getElementById('lisense30');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp030");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L30() {
-    var x = document.getElementById("scp-030");
+    var x = document.getElementById("scp030");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function20() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 031";
-    //<license>
-    var div = document.getElementById('lisense31');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic30");
+    var x = document.getElementById("l30");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp31() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 031";
+    //<license>
+    var x = document.getElementById('lisense31');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp031");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L31() {
-    var x = document.getElementById("scp-031");
+    var x = document.getElementById("scp031");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function21() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 034";
-    //<license>
-    var div = document.getElementById('lisense34');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic31");
+    var x = document.getElementById("l31");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp34() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 034";
+    //<license>
+    var x = document.getElementById('lisense34');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp034");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L34() {
-    var x = document.getElementById("scp-034");
+    var x = document.getElementById("scp034");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function22() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 036";
-    //<license>
-    var div = document.getElementById('lisense36');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic34");
+    var x = document.getElementById("l34");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp36() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 036";
+    //<license>
+    var x = document.getElementById('lisense36');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp036");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L36() {
-    var x = document.getElementById("scp-036");
+    var x = document.getElementById("scp036");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function23() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 038";
-    //<license>
-    var div = document.getElementById('lisense38');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic36");
+    var x = document.getElementById("l36");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp38() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 038";
+    //<license>
+    var x = document.getElementById('lisense38');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp038");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L38() {
-    var x = document.getElementById("scp-038");
+    var x = document.getElementById("scp038");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function24() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 041";
-    //<license>
-    var div = document.getElementById('lisense41');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic38");
+    var x = document.getElementById("l38");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp41() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 041";
+    //<license>
+    var x = document.getElementById('lisense41');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp041");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L41() {
-    var x = document.getElementById("scp-041");
+    var x = document.getElementById("scp041");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function25() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 042";
-    //<license>
-    var div = document.getElementById('lisense42');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic41");
+    var x = document.getElementById("l41");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp42() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 042";
+    //<license>
+    var x = document.getElementById('lisense42');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp042");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L42() {
-    var x = document.getElementById("scp-042");
+    var x = document.getElementById("scp042");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function26() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 043";
-    //<license>
-    var div = document.getElementById('lisense43');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic42");
+    var x = document.getElementById("l42");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp43() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 043";
+    //<license>
+    var x = document.getElementById('lisense43');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp043");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L43() {
-    var x = document.getElementById("scp-043");
+    var x = document.getElementById("scp043");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function27() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 044";
-    //<license>
-    var div = document.getElementById('lisense44');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic43");
+    var x = document.getElementById("l43");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp44() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 044";
+    //<license>
+    var x = document.getElementById('lisense44');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp044");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L44() {
-    var x = document.getElementById("scp-044");
+    var x = document.getElementById("scp044");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function28() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 045";
-    //<license>
-    var div = document.getElementById('lisense45');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic44");
+    var x = document.getElementById("l44");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp45() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 045";
+    //<license>
+    var x = document.getElementById('lisense45');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp045");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L45() {
-    var x = document.getElementById("scp-045");
+    var x = document.getElementById("scp045");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function29() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 051";
-    //<license>
-    var div = document.getElementById('lisense51');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic45");
+    var x = document.getElementById("l45");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp51() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 051";
+    //<license>
+    var x = document.getElementById('lisense51');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp051");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L51() {
-    var x = document.getElementById("scp-051");
+    var x = document.getElementById("scp051");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function30() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 054";
-    //<license>
-    var div = document.getElementById('lisense54');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic51");
+    var x = document.getElementById("l51");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp54() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 054";
+    //<license>
+    var x = document.getElementById('lisense54');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp054");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L54() {
-    var x = document.getElementById("scp-054");
+    var x = document.getElementById("scp054");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function31() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 057";
-    //<license>
-    var div = document.getElementById('lisense57');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic54");
+    var x = document.getElementById("l54");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp57() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 057";
+    //<license>
+    var x = document.getElementById('lisense57');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp057");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L57() {
-    var x = document.getElementById("scp-057");
+    var x = document.getElementById("scp057");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function32() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 061";
-    //<license>
-    var div = document.getElementById('lisense61');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic57");
+    var x = document.getElementById("l57");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp61() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 061";
+    //<license>
+    var x = document.getElementById('lisense61');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp061");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L61() {
-    var x = document.getElementById("scp-061");
+    var x = document.getElementById("scp061");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function33() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 063";
-    //<license>
-    var div = document.getElementById('lisense63');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic61");
+    var x = document.getElementById("l61");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp63() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 063";
+    //<license>
+    var x = document.getElementById('lisense63');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp063");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L63() {
-    var x = document.getElementById("scp-063");
+    var x = document.getElementById("scp063");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function34() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 064";
-    //<license>
-    var div = document.getElementById('lisense64');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic63");
+    var x = document.getElementById("l63");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp64() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 064";
+    //<license>
+    var x = document.getElementById('lisense64');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp064");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L64() {
-    var x = document.getElementById("scp-064");
+    var x = document.getElementById("scp064");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function35() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 067";
-    //<license>
-    var div = document.getElementById('lisense67');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic64");
+    var x = document.getElementById("l64");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp67() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 067";
+    //<license>
+    var x = document.getElementById('lisense67');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp067");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L67() {
-    var x = document.getElementById("scp-067");
+    var x = document.getElementById("scp067");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function36() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 068";
-    //<license>
-    var div = document.getElementById('lisense68');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic67");
+    var x = document.getElementById("l67");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp68() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 068";
+    //<license>
+    var x = document.getElementById('lisense68');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp068");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L68() {
-    var x = document.getElementById("scp-068");
+    var x = document.getElementById("scp068");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function37() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 069";
-    //<license>
-    var div = document.getElementById('lisense69');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic68");
+    var x = document.getElementById("l68");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp69() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 069";
+    //<license>
+    var x = document.getElementById('lisense69');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp069");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L69() {
-    var x = document.getElementById("scp-069");
+    var x = document.getElementById("scp069");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function38() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 070";
-    //<license>
-    var div = document.getElementById('lisense70');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic69");
+    var x = document.getElementById("l69");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp70() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 070";
+    //<license>
+    var x = document.getElementById('lisense70');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp070");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L70() {
-    var x = document.getElementById("scp-070");
+    var x = document.getElementById("scp070");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function39() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 072";
-    //<license>
-    var div = document.getElementById('lisense72');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic70");
+    var x = document.getElementById("l70");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp72() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 072";
+    //<license>
+    var x = document.getElementById('lisense72');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp072");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L72() {
-    var x = document.getElementById("scp-072");
+    var x = document.getElementById("scp072");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function40() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 085";
-    //<license>
-    var div = document.getElementById('lisense85');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic72");
+    var x = document.getElementById("l72");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp85() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 085";
+    //<license>
+    var x = document.getElementById('lisense85');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp085");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L85() {
-    var x = document.getElementById("scp-085");
+    var x = document.getElementById("scp085");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function41() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 086";
-    //<license>
-    var div = document.getElementById('lisense86');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic85");
+    var x = document.getElementById("l85");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp86() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 086";
+    //<license>
+    var x = document.getElementById('lisense86');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp086");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L86() {
-    var x = document.getElementById("scp-086");
+    var x = document.getElementById("scp086");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function42() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 088";
-    //<license>
-    var div = document.getElementById('lisense88');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic86");
+    var x = document.getElementById("l86");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp88() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 088";
+    //<license>
+    var x = document.getElementById('lisense88');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp088");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L88() {
-    var x = document.getElementById("scp-088");
+    var x = document.getElementById("scp088");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function43() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 091";
-    //<license>
-    var div = document.getElementById('lisense91');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic88");
+    var x = document.getElementById("l88");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp91() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 091";
+    //<license>
+    var x = document.getElementById('lisense91');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp091");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L91() {
-    var x = document.getElementById("scp-091");
+    var x = document.getElementById("scp091");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function44() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 092";
-    //<license>
-    var div = document.getElementById('lisense92');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic91");
+    var x = document.getElementById("l91");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp92() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 092";
+    //<license>
+    var x = document.getElementById('lisense92');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp092");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L92() {
-    var x = document.getElementById("scp-092");
+    var x = document.getElementById("scp092");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function45() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 095";
-    //<license>
-    var div = document.getElementById('lisense95');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic92");
+    var x = document.getElementById("l92");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp95() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 095";
+    //<license>
+    var x = document.getElementById('lisense95');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp095");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L95() {
-    var x = document.getElementById("scp-095");
+    var x = document.getElementById("scp095");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function46() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 098";
-    //<license>
-    var div = document.getElementById('lisense98');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic95");
+    var x = document.getElementById("l95");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
         x.style.display = "block";
+    }
+}
+
+function scp98() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 098";
+    //<license>
+    var x = document.getElementById('lisense98');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp098");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
     }
 }
 
 function L98() {
-    var x = document.getElementById("scp-098");
+    var x = document.getElementById("scp098");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-099");
-    link.style.display = 'none';
-}
-
-function Function47() {
-    foo.innerText = "(oject class/scp/document) > SAFE > SCP 099";
-    //<license>
-    var div = document.getElementById('lisense99');
-    if (div.style.display !== 'none') {
-        div.style.display = 'none';
-    } else {
-        div.style.display = 'block';
-    }
-    //</license>
-    var x = document.getElementById("safe");
-    var x = document.getElementById("lic98");
+    var x = document.getElementById("l98");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -3786,85 +1442,41 @@ function Function47() {
     }
 }
 
-function L99() {
-    var x = document.getElementById("scp-099");
+function scp99() {
+    foo.innerText = "(oject class/scp/document) > SAFE > SCP 099";
+    //<license>
+    var x = document.getElementById('lisense99');
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    //</license>
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("scp099");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
         x.style.display = "none";
     }
-    var link = document.getElementById("scp-005");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-006");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-010");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-011");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-013");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-014");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-021");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-025");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-028");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-030");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-031");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-034");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-036");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-038");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-041");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-042");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-043");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-044");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-045");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-051");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-054");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-057");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-061");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-063");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-064");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-067");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-068");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-069");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-070");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-072");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-085");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-086");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-088");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-091");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-092");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-095");
-    link.style.display = 'none';
-    var link = document.getElementById("scp-098");
-    link.style.display = 'none';
+}
+
+function L99() {
+    var x = document.getElementById("scp099");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("l99");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
 }
