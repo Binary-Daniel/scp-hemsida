@@ -6,92 +6,106 @@
     <link href="styles/style.css" rel="stylesheet">
     <link href="styles/buttons.css" rel="stylesheet">
     <script src="scripts/ovrigt.js"></script>
-    <script src="scripts/search.js"></script>
+    <!--<script src="scripts/search.js"></script>-->
     <script src="scripts/scp.js"></script>
-    <script src="scripts/license.js"></script>
     <link rel="shortcut icon" href="images/scp%20icon.ico" type="image/x-icon">
     <img src="images/scp_bakrund.png" id="bg">
     <title>SCP</title>
 </head>
 
 <body>
-    <div class="text1" id="mydiv1" style="display: block">
-        <p>object classes</p>
-        <button class="btn safe" onclick="scpsafe()">safe</button><br>
-        <button class="btn euclid" onclick="Function2()">euclid</button><br>
-        <button class="btn keter" onclick="Function3()">keter</button><br>
-        <br>
-        <button class="btn neutralized" onclick="Function4()">neutralized</button><br>
-        <button class="btn explained" onclick="Function5()">explained</button><br>
-        <br>
-        <button class="btn thaumiel" onclick="Function6()">thaumiel</button><br>
-        <br><br>
-        <button class="btn about" onclick="Function7()">about</button><br>
-        <button class="btn update" onclick="Function8()">update notes</button>
-    </div>
-    <div class="text4 scp" id="safe" style="display: none">
-        <button class="btn scp" onclick="scp5()">scp 005</button><br>
-        <button class="btn scp" onclick="scp6()">scp 006</button><br>
-        <button class="btn scp" onclick="Function12()">scp 010</button><br>
-        <button class="btn scp" onclick="Function13()">scp 011</button><br>
-        <button class="btn scp" onclick="Function14()">scp 013</button><br>
-        <button class="btn scp" onclick="Function15()">scp 014</button><br>
-        <button class="btn scp" onclick="Function16()">scp 021</button><br>
-        <button class="btn scp" onclick="Function17()">scp 025</button><br>
-        <button class="btn scp" onclick="Function18()">scp 028</button><br>
-        <button class="btn scp" onclick="Function19()">scp 030</button><br>
-        <button class="btn scp" onclick="Function20()">scp 031</button><br>
-        <button class="btn scp" onclick="Function21()">scp 034</button><br>
-        <button class="btn scp" onclick="Function22()">scp 036</button><br>
-        <button class="btn scp" onclick="Function23()">scp 038</button><br>
-        <button class="btn scp" onclick="Function24()">scp 041</button><br>
-        <button class="btn scp" onclick="Function25()">scp 042</button><br>
-        <button class="btn scp" onclick="Function26()">scp 043</button><br>
-        <button class="btn scp" onclick="Function27()">scp 044</button><br>
-        <button class="btn scp" onclick="Function28()">scp 045</button><br>
-        <button class="btn scp" onclick="Function29()">scp 051</button><br>
-        <button class="btn scp" onclick="Function30()">scp 054</button><br>
-        <button class="btn scp" onclick="Function31()">scp 057</button><br>
-        <button class="btn scp" onclick="Function32()">scp 061</button><br>
-        <button class="btn scp" onclick="Function33()">scp 063</button><br>
-        <button class="btn scp" onclick="Function34()">scp 064</button><br>
-        <button class="btn scp" onclick="Function35()">scp 067</button><br>
-        <button class="btn scp" onclick="Function36()">scp 068</button><br>
-        <button class="btn scp" onclick="Function37()">scp 069</button><br>
-        <button class="btn scp" onclick="Function38()">scp 070</button><br>
-        <button class="btn scp" onclick="Function39()">scp 072</button><br>
-        <button class="btn scp" onclick="Function40()">scp 085</button><br>
-        <button class="btn scp" onclick="Function41()">scp 086</button><br>
-        <button class="btn scp" onclick="Function42()">scp 088</button><br>
-        <button class="btn scp" onclick="Function43()">scp 091</button><br>
-        <button class="btn scp" onclick="Function44()">scp 092</button><br>
-        <button class="btn scp" onclick="Function45()">scp 095</button><br>
-        <button class="btn scp" onclick="Function46()">scp 098</button><br>
-        <button class="btn scp" onclick="Function47()">scp 099</button><br>
-    </div>
-    <div class="text3" id="about" style="display: none;">
-        <p>this website is an inturpitation on how the SCP database could lok like</p>
-    </div>
-    <div class="text3" id="notes" style="display: none;">
-        <ul>
-            <li>fixed buttons</li>
-            <li>safe serie 1 buttons</li>
-            <li>text zise bug</li>
-        </ul>
-    </div>
-    <div class="search">
-        <input id="searchbar" onkeyup="search_scp()" onkeypress="search()" type="text" name="search" placeholder="Search scp..">
-    </div>
-    <div class="text2">
-        <h2 id="foo">(oject class/scp/document)</h2>
-    </div>
+    
+    <header>
+        <div class="text2">
+            <h2 id="foo">(oject class/scp/document)</h2>
+        </div>
+<!--search NOT READY
+        <div class="search">
+            <input id="searchbar" onkeyup="search_scp()" onkeypress="search()" type="text" name="search" placeholder="Search scp..">
+        </div>-->
+    </header>
+    
+    <nav>
+        <div class="text1" id="mydiv1" style="display: block">
+            <p>object classes</p>
+            <button class="btn safe" onclick="scpsafe()">safe</button><br>
+            <button class="btn euclid" onclick="Function2()">euclid</button><br>
+            <button class="btn keter" onclick="Function3()">keter</button><br>
+            <br>
+            <button class="btn neutralized" onclick="Function4()">neutralized</button><br>
+            <button class="btn explained" onclick="Function5()">explained</button><br>
+            <br>
+            <button class="btn thaumiel" onclick="Function6()">thaumiel</button><br>
+            <br><br>
+            <button class="btn about" onclick="Function7()">about</button><br>
+            <button class="btn update" onclick="Function8()">update notes</button>
+        </div>
+
+        <div class="text4 scp" id="safe" style="display: none">
+            <button class="btn scp" onclick="scp5()">scp 005</button><br>
+            <button class="btn scp" onclick="scp6()">scp 006</button><br>
+            <button class="btn scp" onclick="scp10()">scp 010</button><br>
+            <button class="btn scp" onclick="scp11()">scp 011</button><br>
+            <button class="btn scp" onclick="scp13()">scp 013</button><br>
+            <button class="btn scp" onclick="scp14()">scp 014</button><br>
+            <button class="btn scp" onclick="scp21()">scp 021</button><br>
+            <button class="btn scp" onclick="scp25()">scp 025</button><br>
+            <button class="btn scp" onclick="scp28()">scp 028</button><br>
+            <button class="btn scp" onclick="scp30()">scp 030</button><br>
+            <button class="btn scp" onclick="scp31()">scp 031</button><br>
+            <button class="btn scp" onclick="scp34()">scp 034</button><br>
+            <button class="btn scp" onclick="scp36()">scp 036</button><br>
+            <button class="btn scp" onclick="scp38()">scp 038</button><br>
+            <button class="btn scp" onclick="scp41()">scp 041</button><br>
+            <button class="btn scp" onclick="scp42()">scp 042</button><br>
+            <button class="btn scp" onclick="scp43()">scp 043</button><br>
+            <button class="btn scp" onclick="scp44()">scp 044</button><br>
+            <button class="btn scp" onclick="scp45()">scp 045</button><br>
+            <button class="btn scp" onclick="scp51()">scp 051</button><br>
+            <button class="btn scp" onclick="scp54()">scp 054</button><br>
+            <button class="btn scp" onclick="scp57()">scp 057</button><br>
+            <button class="btn scp" onclick="scp61()">scp 061</button><br>
+            <button class="btn scp" onclick="scp63()">scp 063</button><br>
+            <button class="btn scp" onclick="scp64()">scp 064</button><br>
+            <button class="btn scp" onclick="scp67()">scp 067</button><br>
+            <button class="btn scp" onclick="scp68()">scp 068</button><br>
+            <button class="btn scp" onclick="scp69()">scp 069</button><br>
+            <button class="btn scp" onclick="scp70()">scp 070</button><br>
+            <button class="btn scp" onclick="scp72()">scp 072</button><br>
+            <button class="btn scp" onclick="scp85()">scp 085</button><br>
+            <button class="btn scp" onclick="scp86()">scp 086</button><br>
+            <button class="btn scp" onclick="scp88()">scp 088</button><br>
+            <button class="btn scp" onclick="scp91()">scp 091</button><br>
+            <button class="btn scp" onclick="scp92()">scp 092</button><br>
+            <button class="btn scp" onclick="scp95()">scp 095</button><br>
+            <button class="btn scp" onclick="scp98()">scp 098</button><br>
+            <button class="btn scp" onclick="scp99()">scp 099</button><br>
+        </div>
+    </nav>
+    
+    <article>
+        <div class="text3" id="about" style="display: none;">
+            <p>this website is an inturpitation on how the SCP database could lok like</p>
+        </div>
+
+        <div class="text3" id="notes" style="display: none;">
+            <ul>
+                <li>fixed buttons</li>
+                <li>safe serie 1 buttons</li>
+                <li>text zise bug</li>
+            </ul>
+        </div>
+    </article>
+
+
+
     <!--scp5-->
-    <div class="text3" id="scp005" style="display: none">
+    <div class="text3 scpl5" id="scp005" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-005">scp-005 has not bean aproved by athor</a>
     </div>
     <!--license-->
     <div class="text5" id="lisense5" style="display: none">
-        <button class="btn lisense" onclick="L5()">lisense</button>
+        <button class="btn lisense" onclick="L5()">license</button><br>
     </div>
     <!--scp6-->
     <div class="text3" id="scp006" style="display: none">
@@ -126,7 +140,7 @@
         <button class="btn lisense" onclick="L13()">lisense</button>
     </div>
     <!--funktion 15-->
-    <div class="text3" id="scp-014" style="display: none">
+    <div class="text3" id="scp014" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-014">scp-014</a>
     </div>
     <!--license-->
@@ -134,7 +148,7 @@
         <button class="btn lisense" onclick="L14()">lisense</button>
     </div>
     <!--funktion 16-->
-    <div class="text3" id="scp-021" style="display: none">
+    <div class="text3" id="scp021" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-021">scp-021</a>
     </div>
     <!--license-->
@@ -142,7 +156,7 @@
         <button class="btn lisense" onclick="L21()">lisense</button>
     </div>
     <!--funktion 17-->
-    <div class="text3" id="scp-025" style="display: none">
+    <div class="text3" id="scp025" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-025">scp-025</a>
     </div>
     <!--license-->
@@ -150,7 +164,7 @@
         <button class="btn lisense" onclick="L25()">lisense</button>
     </div>
     <!--funktion 18-->
-    <div class="text3" id="scp-028" style="display: none">
+    <div class="text3" id="scp028" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-028">scp-028</a>
     </div>
     <!--license-->
@@ -158,7 +172,7 @@
         <button class="btn lisense" onclick="L28()">lisense</button>
     </div>
     <!--funktion 19-->
-    <div class="text3" id="scp-030" style="display: none">
+    <div class="text3" id="scp030" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-030">scp-030</a>
     </div>
     <!--license-->
@@ -166,7 +180,7 @@
         <button class="btn lisense" onclick="L30()">lisense</button>
     </div>
     <!--funktion 20-->
-    <div class="text3" id="scp-031" style="display: none">
+    <div class="text3" id="scp031" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-031">scp-031</a>
     </div>
     <!--license-->
@@ -174,7 +188,7 @@
         <button class="btn lisense" onclick="L31()">lisense</button>
     </div>
     <!--funktion 21-->
-    <div class="text3" id="scp-034" style="display: none">
+    <div class="text3" id="scp034" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-034">scp-034</a>
     </div>
     <!--license-->
@@ -182,7 +196,7 @@
         <button class="btn lisense" onclick="L34()">lisense</button>
     </div>
     <!--funktion 22-->
-    <div class="text3" id="scp-036" style="display: none">
+    <div class="text3" id="scp036" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-036">scp-036</a>
     </div>
     <!--license-->
@@ -190,7 +204,7 @@
         <button class="btn lisense" onclick="L36()">lisense</button>
     </div>
     <!--funktion 23-->
-    <div class="text3" id="scp-038" style="display: none">
+    <div class="text3" id="scp038" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-038">scp-038</a>
     </div>
     <!--license-->
@@ -198,7 +212,7 @@
         <button class="btn lisense" onclick="L38()">lisense</button>
     </div>
     <!--funktion 24-->
-    <div class="text3" id="scp-041" style="display: none">
+    <div class="text3" id="scp041" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-041">scp-041</a>
     </div>
     <!--license-->
@@ -206,7 +220,7 @@
         <button class="btn lisense" onclick="L41()">lisense</button>
     </div>
     <!--funktion 25-->
-    <div class="text3" id="scp-042" style="display: none">
+    <div class="text3" id="scp042" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-042">scp-042</a>
     </div>
     <!--license-->
@@ -214,7 +228,7 @@
         <button class="btn lisense" onclick="L42()">lisense</button>
     </div>
     <!--funktion 26-->
-    <div class="text3" id="scp-043" style="display: none">
+    <div class="text3" id="scp043" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-043">scp-043</a>
     </div>
     <!--license-->
@@ -222,7 +236,7 @@
         <button class="btn lisense" onclick="L43()">lisense</button>
     </div>
     <!--funktion 27-->
-    <div class="text3" id="scp-044" style="display: none">
+    <div class="text3" id="scp044" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-044">scp-044</a>
     </div>
     <!--license-->
@@ -230,7 +244,7 @@
         <button class="btn lisense" onclick="L44()">lisense</button>
     </div>
     <!--funktion 28-->
-    <div class="text3" id="scp-045" style="display: none">
+    <div class="text3" id="scp045" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-045">scp-045</a>
     </div>
     <!--license-->
@@ -238,7 +252,7 @@
         <button class="btn lisense" onclick="L45()">lisense</button>
     </div>
     <!--funktion 29-->
-    <div class="text3" id="scp-051" style="display: none">
+    <div class="text3" id="scp051" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-051">scp-051</a>
     </div>
     <!--license-->
@@ -246,7 +260,7 @@
         <button class="btn lisense" onclick="L51()">lisense</button>
     </div>
     <!--funktion 30-->
-    <div class="text3" id="scp-054" style="display: none">
+    <div class="text3" id="scp054" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-054">scp-054</a>
     </div>
     <!--license-->
@@ -254,7 +268,7 @@
         <button class="btn lisense" onclick="L54()">lisense</button>
     </div>
     <!--funktion 31-->
-    <div class="text3" id="scp-057" style="display: none">
+    <div class="text3" id="scp057" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-057">scp-057</a>
     </div>
     <!--license-->
@@ -262,7 +276,7 @@
         <button class="btn lisense" onclick="L57()">lisense</button>
     </div>
     <!--funktion 32-->
-    <div class="text3" id="scp-061" style="display: none">
+    <div class="text3" id="scp061" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-061">scp-061</a>
     </div>
     <!--license-->
@@ -270,7 +284,7 @@
         <button class="btn lisense" onclick="L61()">lisense</button>
     </div>
     <!--funktion 33-->
-    <div class="text3" id="scp-063" style="display: none">
+    <div class="text3" id="scp063" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-063">scp-063</a>
     </div>
     <!--license-->
@@ -278,7 +292,7 @@
         <button class="btn lisense" onclick="L63()">lisense</button>
     </div>
     <!--funktion 34-->
-    <div class="text3" id="scp-064" style="display: none">
+    <div class="text3" id="scp064" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-064">scp-064</a>
     </div>
     <!--license-->
@@ -286,7 +300,7 @@
         <button class="btn lisense" onclick="L64()">lisense</button>
     </div>
     <!--funktion 35-->
-    <div class="text3" id="scp-067" style="display: none">
+    <div class="text3" id="scp067" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-067">scp-067</a>
     </div>
     <!--license-->
@@ -294,7 +308,7 @@
         <button class="btn lisense" onclick="L67()">lisense</button>
     </div>
     <!--funktion 36-->
-    <div class="text3" id="scp-068" style="display: none">
+    <div class="text3" id="scp068" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-068">scp-068</a>
     </div>
     <!--license-->
@@ -302,7 +316,7 @@
         <button class="btn lisense" onclick="L68()">lisense</button>
     </div>
     <!--funktion 37-->
-    <div class="text3" id="scp-069" style="display: none">
+    <div class="text3" id="scp069" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-069">scp-069</a>
     </div>
     <!--license-->
@@ -310,7 +324,7 @@
         <button class="btn lisense" onclick="L69()">lisense</button>
     </div>
     <!--funktion 38-->
-    <div class="text3" id="scp-070" style="display: none">
+    <div class="text3" id="scp070" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-070">scp-070</a>
     </div>
     <!--license-->
@@ -318,7 +332,7 @@
         <button class="btn lisense" onclick="L70()">lisense</button>
     </div>
     <!--funktion 39-->
-    <div class="text3" id="scp-072" style="display: none">
+    <div class="text3" id="scp072" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-072">scp-072</a>
     </div>
     <!--license-->
@@ -326,7 +340,7 @@
         <button class="btn lisense" onclick="L72()">lisense</button>
     </div>
     <!--funktion 40-->
-    <div class="text3" id="scp-085" style="display: none">
+    <div class="text3" id="scp085" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-085">scp-085</a>
     </div>
     <!--license-->
@@ -334,7 +348,7 @@
         <button class="btn lisense" onclick="L85()">lisense</button>
     </div>
     <!--funktion 41-->
-    <div class="text3" id="scp-086" style="display: none">
+    <div class="text3" id="scp086" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-086">scp-086</a>
     </div>
     <!--license-->
@@ -342,7 +356,7 @@
         <button class="btn lisense" onclick="L86()">lisense</button>
     </div>
     <!--funktion 42-->
-    <div class="text3" id="scp-088" style="display: none">
+    <div class="text3" id="scp088" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-088">scp-088</a>
     </div>
     <!--license-->
@@ -350,7 +364,7 @@
         <button class="btn lisense" onclick="L88()">lisense</button>
     </div>
     <!--funktion 43-->
-    <div class="text3" id="scp-091" style="display: none">
+    <div class="text3" id="scp091" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-091">scp-091</a>
     </div>
     <!--license-->
@@ -358,7 +372,7 @@
         <button class="btn lisense" onclick="L91()">lisense</button>
     </div>
     <!--funktion 44-->
-    <div class="text3" id="scp-092" style="display: none">
+    <div class="text3" id="scp092" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-092">scp-092</a>
     </div>
     <!--license-->
@@ -366,7 +380,7 @@
         <button class="btn lisense" onclick="L92()">lisense</button>
     </div>
     <!--funktion 45-->
-    <div class="text3" id="scp-095" style="display: none">
+    <div class="text3" id="scp095" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-095">scp-095</a>
     </div>
     <!--license-->
@@ -374,7 +388,7 @@
         <button class="btn lisense" onclick="L95()">lisense</button>
     </div>
     <!--funktion 46-->
-    <div class="text3" id="scp-098" style="display: none">
+    <div class="text3" id="scp098" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-098">scp-098</a>
     </div>
     <!--license-->
@@ -382,32 +396,30 @@
         <button class="btn lisense" onclick="L98()">lisense</button>
     </div>
     <!--funktion 47-->
-    <div class="text3" id="scp-099" style="display: none">
+    <div class="text3" id="scp099" style="display: none">
         <a href="http://scp-wiki.wikidot.com/scp-099">scp-099</a>
     </div>
     <!--license-->
     <div class="text5" id="lisense99" style="display: none">
         <button class="btn lisense" onclick="L99()">lisense</button>
     </div>
-    
-    
+
+
     <!--safe license-->
-    <div class="text3" id="lic5" style="display: none">
-    <p>???</p>
+    <div class="text3" id="l5" style="display: none">
+        <p>???</p>
     </div>
-    <div class="text3" id="lic6" style="display: none">
-    <p>???</p>
+    <div class="text3" id="l6" style="display: none">
+        <p>???</p>
     </div>
-    <div class="text3" id="lic10" style="display: none">
-    <p>???</p>
+    <div class="text3" id="l10" style="display: none">
+        <p>???</p>
     </div>
-    <div class="text3" id="lic11" style="display: none">
-    <p>???</p>
+    <div class="text3" id="l11" style="display: none">
+        <p>???</p>
     </div>
-    <div class="text3" id="lic13" style="display: none">
-    <p>???</p>
+    <div class="text3" id="l13" style="display: none">
+        <p>???</p>
     </div>
 
-</body>
-
-</html>
+</body></html>
