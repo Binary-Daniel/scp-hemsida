@@ -108,7 +108,19 @@ function L10() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls10");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l10");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl10");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -1489,7 +1501,19 @@ function Addendum0101() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls10");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("Addendum010-1");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit1");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -1503,7 +1527,19 @@ function Addendum0102() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls10");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("Addendum010-2");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit2");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -1517,7 +1553,19 @@ function Addendum0103() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls10");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("Addendum010-3");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit3");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
