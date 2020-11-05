@@ -6,15 +6,14 @@
     <link href="styles/style.css" rel="stylesheet">
     <link href="styles/buttons.css" rel="stylesheet">
     <script src="scripts/ovrigt.js"></script>
-    <!--<script src="scripts/search.js"></script>-->
     <script src="scripts/scp.js"></script>
     <link rel="shortcut icon" href="images/scp%20icon.ico" type="image/x-icon">
-    <img src="images/scp_bakrund.png" id="bg">
     <title>SCP</title>
+    <img src="images/scp_bakrund.png" id="bg" alt="Wallpaper">
 </head>
-
+    
 <body>
-
+    
     <header>
         <div class="text2">
             <h2 id="foo">(oject class/scp/document)</h2>
@@ -81,33 +80,16 @@
             <button class="btn scp" onclick="scp98()">scp 098</button><br>
             <button class="btn scp" onclick="scp99()">scp 099</button><br>
         </div>
-        <!--story btn-->
-        <div class="cc" id="story" style="display: none">
-        <button class="btn scp" onclick="story010-1()">Addendum 010-1:</button><br>
+        <!--license btn + story btn-->
+        <div class="text5" id="ls5" style="display: none">
+            <button class="btn lisense" onclick="L5()">license</button><br>
         </div>
-        <!--safe license-->
-        <div class="cc" id="l5" style="display: none">
-            <p>???</p>
+        <div class="text5" id="ls6" style="display: none">
+            <button class="btn lisense" onclick="L6()">lisense</button>
         </div>
-        <div class="cc" id="l6" style="display: none">
-            <p>
-                "<a href="/scp-006" class="active">SCP-006</a>"
-                by Dr_Schubert, from the
-                <a href="http://scp-wiki.net">SCP Wiki</a>
-                . Source:
-                <a href="http://www.scpwiki.com/scp-006">http://www.scpwiki.com/scp-006</a>
-                . Licensed under
-                <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>.
-            </p>
-        </div>
-        <div class="cc" id="l10" style="display: none">
-            <p>???</p>
-        </div>
-        <div class="cc" id="l11" style="display: none">
-            <p>???</p>
-        </div>
-        <div class="cc" id="l13" style="display: none">
-            <p>???</p>
+        <div class="text5" id="ls10" style="display: none">
+            <button class="btn scp" onclick="Addendum 010-1()">Addendum 010-1</button><br>
+            <button class="btn lisense" onclick="L10()">lisense</button>
         </div>
     </nav>
 
@@ -128,10 +110,6 @@
         <div class="text3 scpl5" id="scp005" style="display: none">
             <a href="http://scp-wiki.wikidot.com/scp-005">scp-005 has not bean aproved by athor</a>
         </div>
-        <!--license-->
-        <div class="text5" id="lisense5" style="display: none">
-            <button class="btn lisense" onclick="L5()">license</button><br>
-        </div>
         <!--scp6-->
         <div class="text3" id="scp006" style="display: none">
             <h2><span>Under direct orders of the founder, access is limited to those with Overseer clearance.</span></h2>
@@ -146,10 +124,6 @@
             <p><strong>Description:</strong> SCP-006 is a very small spring located 60&nbsp;km west of Astrakhan. Foundation Command was aware of its existence since the 19th century, but were unable to secure it until 1991 due to political reasons. On the spot of the spring, a chemical factory has been constructed as a disguise, with the majority of laborers under Foundation and/or Russian control. The liquid emitted from the spring has been chemically identified as simple mineral water in 1902, but has the unusual property of "health".</p>
             <p>Ingesting the liquid produces the following properties in human beings: the ability to regenerate DNA damaged by sufficient duplication, heightened excitement of cellular duplication, vastly improved abilities in the repair of damaged tissue, and a frightening increase in the effectiveness of the human immune system. Upon testing the liquid on animal subjects, hostile bacteria and viral agents were destroyed immediately. Many reptiles and birds were unaffected, while higher primates experienced the same benefits as humans.</p>
         </div>
-        <!--license-->
-        <div class="text5" id="lisense6" style="display: none">
-            <button class="btn lisense" onclick="L6()">lisense</button>
-        </div>
         <!--funktion 12-->
         <div class="text3" id="scp010" style="display: none">
             <p><strong>Item #:</strong> SCP-010</p>
@@ -159,8 +133,6 @@
             <p><strong>Description:</strong> SCP-010 consists of a series of six (6) apparently identical cast iron collars with numbered metal tags and one (1) remote control. The control is SCP-010-1. The collars are SCP-010-2 through 010-7. The collars contain intricate electronic components and are powered by small (5&nbsp;mm diameter, 2&nbsp;mm thick) 100&nbsp;V batteries. These batteries are rechargeable.</p>
             <p>The remote is a heavy black box resembling an old style hand-held radio transmitter/receiver with a primitive blue/white cathode ray screen and a series of more than 100 unlabeled buttons, as well as a frequency tuner. Through trial and error, the frequencies of all six (6) currently found collars have been discovered. A label in Russian is stamped into the metal along with a logo consisting of workers building a pyramid. No official Russian corporation or government agency uses this logo or matches the words stamped into the metal.</p>
             <p>Placing the collar around the neck of a person and securing it allows one to control their every movement with the remote. It is also capable of producing an adrenal response and activating or deactivating the sympathetic nervous system. The most abnormal feature of the collars is the effect they have on the body morphology. They allow the user of the remote to reconfigure the shape of the victim to an extent that is apparently only limited by the knowledge of the programming language of the remote.</p>
-            <p><strong>Addendum 010-1:</strong> History</p>
-            <p>SCP-010 was discovered in the basement of a lone man in the Midwestern United States after a local disappearance was connected to him. When the police raided the man's house they found SCP-010 as well as several dead bodies. One of the bodies was identified to be the man. The others were several other missing persons. Cause of death seemed to be mass suicide; however, there were signs of significant struggle first.</p>
             <p><strong>Addendum 010-2:</strong> Disassemble experiment</p>
             <p>Test 1: SCP-010-2 taken apart piecewise, the parts labeled and several photographs taken, then reassembled.<br>
                 Result: After reassembly SCP-010-2 continues to function.</p>
@@ -174,12 +146,7 @@
             <p><em>SCP-010 has been demonstrated to work more effectively in creating unskilled labor than for any other task. The logo is apt. ~ Dr. █████</em></p>
         </div>
         <div class="text3" id="History" style="display: none">
-            <p>History</p>
             <p>SCP-010 was discovered in the basement of a lone man in the Midwestern United States after a local disappearance was connected to him. When the police raided the man's house they found SCP-010 as well as several dead bodies. One of the bodies was identified to be the man. The others were several other missing persons. Cause of death seemed to be mass suicide; however, there were signs of significant struggle first.</p>
-        </div>
-        <!--license-->
-        <div class="text5" id="lisense10" style="display: none">
-            <button class="btn lisense" onclick="L10()">lisense</button>
         </div>
         <!--funktion 13-->
         <div class="text3" id="scp011" style="display: none">
@@ -460,6 +427,31 @@
         <!--license-->
         <div class="text5" id="lisense99" style="display: none">
             <button class="btn lisense" onclick="L99()">lisense</button>
+        </div>
+        
+        <!--safe license-->
+        <div class="cc" id="l5" style="display: none">
+            <p>???</p>
+        </div>
+        <div class="cc" id="l6" style="display: none">
+            <p>
+                "<a href="/scp-006" class="active">SCP-006</a>"
+                by Dr_Schubert, from the
+                <a href="http://scp-wiki.net">SCP Wiki</a>
+                . Source:
+                <a href="http://www.scpwiki.com/scp-006">http://www.scpwiki.com/scp-006</a>
+                . Licensed under
+                <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>.
+            </p>
+        </div>
+        <div class="cc" id="l10" style="display: none">
+            <p>???</p>
+        </div>
+        <div class="cc" id="l11" style="display: none">
+            <p>???</p>
+        </div>
+        <div class="cc" id="l13" style="display: none">
+            <p>???</p>
         </div>
     </article>
 
