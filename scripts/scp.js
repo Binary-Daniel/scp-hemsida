@@ -24,7 +24,7 @@ function scp5() {
 }
 
 function L5() {
-    var x = document.getElementById('L5');
+    var x = document.getElementById('l5');
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
