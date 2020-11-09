@@ -1532,6 +1532,7 @@ function Addendum0101() {
         x.style.display = "none";
     }
 }
+
 function Addendum0102() {
     var x = document.getElementById("scp010");
     if (x.style.display === "none") {
@@ -1558,6 +1559,7 @@ function Addendum0102() {
         x.style.display = "none";
     }
 }
+
 function Addendum0103() {
     var x = document.getElementById("scp010");
     if (x.style.display === "none") {
@@ -1584,8 +1586,9 @@ function Addendum0103() {
         x.style.display = "none";
     }
 }
+
 function Addendum011() {
-  var x = document.getElementById("scp011");
+    var x = document.getElementById("scp011");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
