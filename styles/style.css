@@ -103,5 +103,6 @@ a {
 
 .scp-image-block, .image{
     width:300px;
-    margin-right: 0;
+    top: 0;
+    right: 0;
 }
