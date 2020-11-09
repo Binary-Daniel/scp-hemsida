@@ -21,15 +21,16 @@
 }
 
 .text4 {
-    position: absolute;
+    position: fixed;
     z-index: 999;
     left: 0;
     text-align: center;
-    top: 25%;
+    top: 24.5%;
     /* Adjust this value to move the positioned div up and down */
     width: 16%;
     /* Set the width of the positioned div */
-    height: 137%;
+    height: 75.5%;
+    overflow: auto;
 }
 
 .text5 {
