@@ -171,6 +171,12 @@ function L11() {
     } else {
         x.style.display = "block";
     }
+    var x = document.getElementById("exitl11");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
 }
 
 function scp13() {
@@ -1519,7 +1525,7 @@ function Addendum0101() {
     } else {
         x.style.display = "none";
     }
-    var x = document.getElementById("exit1");
+    var x = document.getElementById("exit101");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -1545,7 +1551,7 @@ function Addendum0102() {
     } else {
         x.style.display = "none";
     }
-    var x = document.getElementById("exit2");
+    var x = document.getElementById("exit102");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -1571,7 +1577,60 @@ function Addendum0103() {
     } else {
         x.style.display = "none";
     }
-    var x = document.getElementById("exit3");
+    var x = document.getElementById("exit103");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function Addendum011() {
+  var x = document.getElementById("scp011");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("ls11");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("Addendum011");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit111");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function Document011() {
+    var x = document.getElementById("scp011");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("ls11");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("Document011");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit112");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
