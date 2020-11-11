@@ -1,8 +1,17 @@
+function home(){
+    var x = document.getElementById("safe");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("mydiv1");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    }
+}
 //home buttons
 function scpsafe() {
     var h = document.getElementById("foo");
-    h.insertAdjacentText("beforeend", "safe");
-
+    h.insertAdjacentText("beforeend", "SAFE"
     var x = document.getElementById("mydiv1");
     if (x.style.display === "none") {
         x.style.display = "block";
