@@ -205,7 +205,19 @@ function L13() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls13");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l13");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl13");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -243,7 +255,19 @@ function L14() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls14");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l14");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl14");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -281,7 +305,19 @@ function L21() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls21");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l21");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl21");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -319,7 +355,19 @@ function L25() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls25");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l25");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl25");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -1596,6 +1644,84 @@ function Document011() {
         x.style.display = "none";
     }
     var x = document.getElementById("exit112");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function Addendum013(){
+    var x = document.getElementById("scp013");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("ls13");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("Addendum013");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit131");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function Addendum014(){
+    var x = document.getElementById("scp014");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("ls14");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("Addendum014");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit141");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+function test25(){
+    var x = document.getElementById("scp025");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("ls25");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("test25");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit25");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
