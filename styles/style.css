@@ -74,6 +74,11 @@ input[type=text]:focus {
     height: 80%;
     overflow: auto;
 }
+blockquote{
+    width: 47%;
+    border: 1px solid white;
+    padding: 10px;
+}
 
 p,
 h2,
