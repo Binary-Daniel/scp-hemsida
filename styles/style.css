@@ -126,7 +126,6 @@ a {
     top: 0;
     right: 0;
 }
-
 .f-heading{
     line-height: 1px;
 }
@@ -135,10 +134,10 @@ a {
 }
 #F1{
     visibility: hidden;
-    width: 530px;
+    width: 506px;
     height: 130px;
     left: 16%;
-    top: 40%;
+    top: 40.5%;
     background-color: black;
     position: absolute;
     border: 1px solid white;
@@ -148,10 +147,23 @@ a {
 }
 #F2{
     visibility: hidden;
-    width: auto;
-    height: auto;
-    left: 129.5px;
-    top: 838px;
+    width: 401px;
+    height: 130px;
+    left: 49%;
+    top: 65%;
+    background-color: black;
+    position: absolute;
+    border: 1px solid white;
+    z-index: 999;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#F3{
+    visibility: hidden;
+    width: 621px;
+    height: 130px;
+    left: 0%;
+    top: 89%;
     background-color: black;
     position: absolute;
     border: 1px solid white;
