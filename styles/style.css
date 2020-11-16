@@ -124,12 +124,30 @@ a {
     margin-left: 0.2em;
     line-height: 1.2em;
 }
-
-.scp-image-block,
-.image {
-    width: 300px;
-    top: 0;
-    right: 0;
+.scp-image-block {
+	border: solid 1px white;
+	width: 300px;
+}
+.scp-image-block.block-right {
+	float: right;
+	clear: right;
+	margin: 0 2em 1em 2em;
+}
+.scp-image-block.block-center {
+	margin-right: auto;
+	margin-left: auto;
+}
+.scp-image-block img {
+	border: 0;
+	width: 300px;
+}
+.scp-image-block .scp-image-caption {
+	background-color: black;
+	border-top: solid 1px white;
+	padding: 2px 0;
+	font-size: 80%;
+	text-align: center;
+	width: 300px;
 }
 .f-heading{
     line-height: 1px;
