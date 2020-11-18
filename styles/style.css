@@ -104,11 +104,15 @@ a {
     color: white;
 }
 
+.crossedout{
+    text-decoration: line-through;
+}
+
 .cc {
     width: 42em;
     height: 8em;
-    right: 20em;
-    bottom: 50em;
+    left: 30em;
+    top: 20em;
     background-color: rgba(50, 50, 50, 50);
     border: 0.3em solid white;
     border-radius: 1em;
