@@ -125,13 +125,19 @@ a {
     line-height: 1.2em;
 }
 .scp-image-block {
-	border: solid 1px white;
+	border: solid 2px white;
 	width: 300px;
+    background-color: white;
 }
 .scp-image-block.block-right {
 	float: right;
 	clear: right;
 	margin: 0 2em 1em 2em;
+}
+.scp-image-block.block-left {
+	float: left;
+	clear: left;
+	margin: 0 2em 1em 0;
 }
 .scp-image-block.block-center {
 	margin-right: auto;
@@ -144,8 +150,7 @@ a {
 .scp-image-block .scp-image-caption {
 	background-color: black;
 	border-top: solid 1px white;
-	padding: 2px 0;
-	font-size: 80%;
+	padding: 1px 0;
 	text-align: center;
 	width: 300px;
 }
