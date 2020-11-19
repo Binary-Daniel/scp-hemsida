@@ -28,7 +28,7 @@ html {
 
 span h2 {
     display: inline;
-    float: inherit
+    float: inherit;
 }
 
 /*#searchbar {
@@ -65,14 +65,15 @@ input[type=text]:focus {
     position: fixed;
     z-index: 999;
     margin: 0 auto;
-    right: 0;
+    right: 1px;
     bottom: 0;
     /* Adjust this value to move the positioned div up and down */
     text-align: left;
-    width: 81%;
+    width: 80%;
     /* Set the width of the positioned div */
-    height: 80%;
+    height: 79%;
     overflow: auto;
+    padding: 1em;
 }
 blockquote{
     width: 47%;
@@ -130,18 +131,19 @@ a {
 }
 .scp-image-block {
 	border: solid 2px white;
-	width: 300px;
     background-color: white;
 }
 .scp-image-block.block-right {
 	float: right;
 	clear: right;
 	margin: 0 2em 1em 2em;
+    width: 300px;
 }
 .scp-image-block.block-left {
 	float: left;
 	clear: left;
 	margin: 0 2em 1em 0;
+    width: 150px;
 }
 .scp-image-block.block-center {
 	margin-right: auto;
@@ -149,14 +151,14 @@ a {
 }
 .scp-image-block img {
 	border: 0;
-	width: 300px;
+	width: inherit;
 }
 .scp-image-block .scp-image-caption {
 	background-color: black;
 	border-top: solid 1px white;
 	padding: 1px 0;
 	text-align: center;
-	width: 300px;
+	width: inherit;
 }
 .f-heading{
     line-height: 1px;
