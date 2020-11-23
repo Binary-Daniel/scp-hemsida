@@ -1,4 +1,5 @@
 //safe story
+//scp10
 function Addendum0101() {
     var x = document.getElementById("scp010");
     if (x.style.display === "none") {
@@ -79,7 +80,7 @@ function Addendum0103() {
         x.style.display = "none";
     }
 }
-
+//scp11
 function Addendum011() {
     var x = document.getElementById("scp011");
     if (x.style.display === "none") {
@@ -133,7 +134,7 @@ function Document011() {
         x.style.display = "none";
     }
 }
-
+//scp13
 function Addendum013() {
     var x = document.getElementById("scp013");
     if (x.style.display === "none") {
@@ -160,7 +161,7 @@ function Addendum013() {
         x.style.display = "none";
     }
 }
-
+//scp14
 function Addendum014() {
     var x = document.getElementById("scp014");
     if (x.style.display === "none") {
@@ -187,7 +188,7 @@ function Addendum014() {
         x.style.display = "none";
     }
 }
-
+//scp25
 function test25() {
     var x = document.getElementById("scp025");
     if (x.style.display === "none") {
@@ -214,7 +215,7 @@ function test25() {
         x.style.display = "none";
     }
 }
-
+//scp28
 function Document281() {
     var x = document.getElementById("scp028");
     if (x.style.display === "none") {
@@ -268,6 +269,7 @@ function Document282() {
         x.style.display = "none";
     }
 }
+
 function Document283() {
     var x = document.getElementById("scp028");
     if (x.style.display === "none") {
@@ -294,7 +296,8 @@ function Document283() {
         x.style.display = "none";
     }
 }
-function Addendum030(){
+//scp30
+function Addendum030() {
     var x = document.getElementById("scp030");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -320,7 +323,8 @@ function Addendum030(){
         x.style.display = "none";
     }
 }
-function Addendum031(){
+//scp31
+function Addendum031() {
     var x = document.getElementById("scp031");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -346,7 +350,8 @@ function Addendum031(){
         x.style.display = "none";
     }
 }
-function LabReport034(){
+//scp34
+function LabReport034() {
     var x = document.getElementById("scp034");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -372,7 +377,8 @@ function LabReport034(){
         x.style.display = "none";
     }
 }
-function PostInterrogationReport(){
+
+function PostInterrogationReport() {
     var x = document.getElementById("scp034");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -398,7 +404,8 @@ function PostInterrogationReport(){
         x.style.display = "none";
     }
 }
-function Addendum0381(){
+//scp38
+function Addendum0381() {
     var x = document.getElementById("scp038");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -424,7 +431,8 @@ function Addendum0381(){
         x.style.display = "none";
     }
 }
-function Addendum0382(){
+
+function Addendum0382() {
     var x = document.getElementById("scp038");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -450,7 +458,8 @@ function Addendum0382(){
         x.style.display = "none";
     }
 }
-function Addendum0383(){
+
+function Addendum0383() {
     var x = document.getElementById("scp038");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -476,7 +485,8 @@ function Addendum0383(){
         x.style.display = "none";
     }
 }
-function Addendum0384(){
+
+function Addendum0384() {
     var x = document.getElementById("scp038");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -502,7 +512,8 @@ function Addendum0384(){
         x.style.display = "none";
     }
 }
-function Document0381(){
+
+function Document0381() {
     var x = document.getElementById("scp038");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -528,7 +539,8 @@ function Document0381(){
         x.style.display = "none";
     }
 }
-function Document0382(){
+
+function Document0382() {
     var x = document.getElementById("scp038");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -554,7 +566,8 @@ function Document0382(){
         x.style.display = "none";
     }
 }
-function TestingLog038(){
+
+function TestingLog038() {
     var x = document.getElementById("scp038");
     if (x.style.display === "none") {
         x.style.display = "block";
@@ -574,6 +587,87 @@ function TestingLog038(){
         x.style.display = "none";
     }
     var x = document.getElementById("exit387");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+//scp41
+function Addendum0411() {
+    var x = document.getElementById("scp041");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("ls41");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("Addendum0411");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit411");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function Addendum0412() {
+    var x = document.getElementById("scp041");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("ls41");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("Addendum0412");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit412");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+
+function Document41() {
+    var x = document.getElementById("scp041");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("ls41");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("Document41");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit413");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
