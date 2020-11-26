@@ -188,33 +188,6 @@ function Addendum014() {
         x.style.display = "none";
     }
 }
-//scp25
-function test25() {
-    var x = document.getElementById("scp025");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-    var x = document.getElementById("ls25");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-    var x = document.getElementById("test25");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-    var x = document.getElementById("exit25");
-    if (x.style.display === "none") {
-        x.style.display = "block";
-    } else {
-        x.style.display = "none";
-    }
-}
 //scp28
 function Document281() {
     var x = document.getElementById("scp028");

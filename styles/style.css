@@ -76,9 +76,9 @@ input[type=text]:focus {
     padding: 1em;
 }
 blockquote{
-    width: 47%;
+    width: 50%;
     border: 1px solid white;
-    padding: 10px;
+    padding: 5px;
 }
 
 p,
@@ -107,6 +107,9 @@ a {
 
 .crossedout{
     text-decoration: line-through;
+}
+.underline{
+    text-decoration: underline;
 }
 
 .cc {
