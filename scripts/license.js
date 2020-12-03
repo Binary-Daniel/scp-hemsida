@@ -330,7 +330,19 @@ function L36() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls36");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l36");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl36");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -426,7 +438,19 @@ function L43() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls43");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l43");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl42");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -468,7 +492,19 @@ function L45() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls45");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l45");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl45");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -483,7 +519,19 @@ function L51() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls51");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l51");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl51");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -498,7 +546,19 @@ function L54() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls54");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l54");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl54");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -513,7 +573,19 @@ function L57() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls57");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l57");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl57");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -528,7 +600,19 @@ function L61() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls61");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l61");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl61");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -543,7 +627,19 @@ function L63() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls63");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l63");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl63");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -558,7 +654,19 @@ function L64() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls64");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l64");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl64");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -573,7 +681,19 @@ function L67() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls67");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l67");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl67");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -588,7 +708,19 @@ function L68() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls68");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l68");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl68");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
@@ -603,7 +735,19 @@ function L69() {
     } else {
         x.style.display = "none";
     }
+    var x = document.getElementById("ls69");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
     var x = document.getElementById("l69");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+    var x = document.getElementById("exitl69");
     if (x.style.display === "block") {
         x.style.display = "none";
     } else {
