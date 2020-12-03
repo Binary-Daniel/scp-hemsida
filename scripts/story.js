@@ -1,4 +1,31 @@
 //safe story
+//scp5
+function AppendixA() {
+    var x = document.getElementById("scp005");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("ls5");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("Appendix A");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+    var x = document.getElementById("exit5");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
 //scp10
 function Addendum0101() {
     var x = document.getElementById("scp010");
